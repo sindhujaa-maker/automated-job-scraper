@@ -1,0 +1,13 @@
+{
+  "name": "playwright-job-scraper",
+  "version": "1.0.0",
+  "description": "Playwright job site scraper example",
+  "main": "job_scraper.js",
+  "scripts": {
+    "start": "node job_scraper.js"
+  },
+  "dependencies": {
+    "playwright": "^1.45.0",
+    "csv-writer": "^1.6.0"
+  }
+}
